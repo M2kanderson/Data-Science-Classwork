@@ -1,2 +1,2 @@
-# Data-Science-Classwork
+# datasciencecoursera
 Repository for Coursera data science classwork
